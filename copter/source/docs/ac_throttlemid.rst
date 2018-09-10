@@ -16,7 +16,7 @@ having the throttle outside of the 40% ~ 60% deadzone will be
 interpreted as meaning you want the copter to climb or descend.
 
 For this reason it is a good idea to adjust the Throttle Mid parameter
-(also known as THR_MID) so that your mid throttle while in stabilize
+(MOT_THST_HOVER) so that your mid throttle while in stabilize
 mode is closer to 50%.
 
 Please follow these instructions to adjust your manual throttle to so
