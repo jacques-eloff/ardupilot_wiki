@@ -34,8 +34,7 @@ have better position estimate).
 **Solid green - with single long tone at time of arming:** Armed, GPS
 lock acquired. Ready to fly!
 
-**Double flashing yellow:** Failing pre-arm checks (system refuses to
-arm).
+**Double flashing yellow:** Pre-arm checks in progress (if pre-arm checks fail, double flashing yellow will continue and system will not arm).
 
 **Single Flashing yellow:** Radio failsafe activated
 
